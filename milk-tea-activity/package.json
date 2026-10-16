@@ -1,0 +1,16 @@
+{
+  "name": "milk-tea-event-standalone",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Milk tea activity source modules and protocol subset",
+  "main": "src/client.js",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "protobufjs": "8.0.1"
+  }
+}

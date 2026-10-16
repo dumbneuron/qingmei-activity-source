@@ -1,0 +1,586 @@
+{
+  "goods": [
+    {
+      "id": "301",
+      "item": [
+        {
+          "id": "20525",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1001",
+          "count": "10000"
+        }
+      ],
+      "purchase_limit": "108",
+      "order": "1",
+      "name": "森野甜莓种子",
+      "restriction_type": "4"
+    },
+    {
+      "id": "302",
+      "item": [
+        {
+          "id": "20526",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1001",
+          "count": "10000"
+        }
+      ],
+      "purchase_limit": "108",
+      "order": "2",
+      "name": "森野白桃种子",
+      "restriction_type": "4"
+    },
+    {
+      "id": "303",
+      "item": [
+        {
+          "id": "20527",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1001",
+          "count": "10000"
+        }
+      ],
+      "purchase_limit": "108",
+      "order": "3",
+      "name": "森野甜橙种子",
+      "restriction_type": "4"
+    },
+    {
+      "id": "304",
+      "item": [
+        {
+          "id": "20528",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1001",
+          "count": "10000"
+        }
+      ],
+      "purchase_limit": "108",
+      "order": "4",
+      "name": "森野红柚种子",
+      "restriction_type": "4"
+    },
+    {
+      "id": "305",
+      "item": [
+        {
+          "id": "20021",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1001",
+          "count": "10000"
+        }
+      ],
+      "purchase_limit": "108",
+      "order": "5",
+      "name": "森野可可豆种子",
+      "restriction_type": "4"
+    },
+    {
+      "id": "306",
+      "item": [
+        {
+          "id": "21435",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1001",
+          "count": "20000"
+        }
+      ],
+      "purchase_limit": "108",
+      "order": "6",
+      "name": "森野柿子种子",
+      "restriction_type": "4"
+    },
+    {
+      "id": "307",
+      "item": [
+        {
+          "id": "20529",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1001",
+          "count": "20000"
+        }
+      ],
+      "purchase_limit": "36",
+      "order": "7",
+      "name": "森野芭乐种子",
+      "restriction_type": "1"
+    },
+    {
+      "id": "308",
+      "item": [
+        {
+          "id": "29005",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "8000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "8",
+      "name": "森野黄金芽种子",
+      "restriction_type": "1"
+    },
+    {
+      "id": "309",
+      "item": [
+        {
+          "id": "20522",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "6000"
+        }
+      ],
+      "purchase_limit": "50",
+      "order": "9",
+      "name": "金币果种子",
+      "restriction_type": "4"
+    },
+    {
+      "id": "310",
+      "item": [
+        {
+          "id": "20523",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "6000"
+        }
+      ],
+      "purchase_limit": "50",
+      "order": "10",
+      "name": "经验蘑菇种子",
+      "restriction_type": "4"
+    },
+    {
+      "id": "332",
+      "item": [
+        {
+          "id": "1042",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1004",
+          "count": "8"
+        }
+      ],
+      "purchase_limit": "40",
+      "order": "11",
+      "name": "宣传喇叭",
+      "restriction_type": "2"
+    },
+    {
+      "id": "311",
+      "item": [
+        {
+          "id": "208012",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "20000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "12",
+      "name": "缤纷奶茶围栏",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item6/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "312",
+      "item": [
+        {
+          "id": "206011",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "40000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "13",
+      "name": "缤纷奶茶仓库",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item4/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "313",
+      "item": [
+        {
+          "id": "202011",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "40000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "14",
+      "name": "缤纷奶茶木牌",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item1/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "314",
+      "item": [
+        {
+          "id": "203012",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "20000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "15",
+      "name": "缤纷奶茶栅栏",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item2/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "315",
+      "item": [
+        {
+          "id": "205011",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "90000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "16",
+      "name": "缤纷奶茶狗屋",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item3/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "316",
+      "item": [
+        {
+          "id": "207012",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "100000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "17",
+      "name": "缤纷奶茶街道",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item5/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "317",
+      "item": [
+        {
+          "id": "210016",
+          "count": "1"
+        },
+        {
+          "id": "210026",
+          "count": "1"
+        },
+        {
+          "id": "210036",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "30000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "18",
+      "name": "桌椅套装",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item12/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "318",
+      "item": [
+        {
+          "id": "210012",
+          "count": "1"
+        },
+        {
+          "id": "210022",
+          "count": "1"
+        },
+        {
+          "id": "210032",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "37500"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "19",
+      "name": "门套装",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item8/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "319",
+      "item": [
+        {
+          "id": "210013",
+          "count": "1"
+        },
+        {
+          "id": "210023",
+          "count": "1"
+        },
+        {
+          "id": "210033",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "37500"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "20",
+      "name": "窗套装",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item9/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "320",
+      "item": [
+        {
+          "id": "210014",
+          "count": "1"
+        },
+        {
+          "id": "210024",
+          "count": "1"
+        },
+        {
+          "id": "210034",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "45000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "21",
+      "name": "墙面套装",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item10/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "321",
+      "item": [
+        {
+          "id": "210015",
+          "count": "1"
+        },
+        {
+          "id": "210025",
+          "count": "1"
+        },
+        {
+          "id": "210035",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "45000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "22",
+      "name": "地板套装",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item11/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "322",
+      "item": [
+        {
+          "id": "210011",
+          "count": "1"
+        },
+        {
+          "id": "210021",
+          "count": "1"
+        },
+        {
+          "id": "210031",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "96000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "23",
+      "name": "屋顶套装",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item7/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "323",
+      "item": [
+        {
+          "id": "210017",
+          "count": "1"
+        },
+        {
+          "id": "210027",
+          "count": "1"
+        },
+        {
+          "id": "210037",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "30000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "24",
+      "name": "装饰套装",
+      "desc": "{\"res\":\"gui/texture/Season/S4/S4ShopIcon/img_exchange_item13/spriteFrame\"}",
+      "restriction_type": "4"
+    },
+    {
+      "id": "331",
+      "item": [
+        {
+          "id": "2163",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "15000"
+        }
+      ],
+      "purchase_limit": "1",
+      "order": "32",
+      "name": "缤纷奶茶头像框",
+      "restriction_type": "4"
+    },
+    {
+      "id": "333",
+      "item": [
+        {
+          "id": "80001",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "400"
+        }
+      ],
+      "purchase_limit": "100",
+      "order": "33",
+      "name": "化肥(1小时)",
+      "restriction_type": "4"
+    },
+    {
+      "id": "334",
+      "item": [
+        {
+          "id": "80011",
+          "count": "1"
+        }
+      ],
+      "cost": [
+        {
+          "id": "1041",
+          "count": "500"
+        }
+      ],
+      "purchase_limit": "130",
+      "order": "34",
+      "name": "有机化肥(1小时)",
+      "restriction_type": "4"
+    }
+  ]
+}

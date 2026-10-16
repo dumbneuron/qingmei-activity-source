@@ -1,0 +1,584 @@
+{
+  "activityId": 2026110101,
+  "shifts": [
+    {
+      "id": 1,
+      "hours": 4,
+      "durationSec": 14400,
+      "cost": [
+        {
+          "id": 1041,
+          "count": 40
+        }
+      ],
+      "minimumBusinessSec": 600
+    },
+    {
+      "id": 2,
+      "hours": 12,
+      "durationSec": 43200,
+      "cost": [
+        {
+          "id": 1041,
+          "count": 130
+        }
+      ],
+      "minimumBusinessSec": 14401
+    },
+    {
+      "id": 3,
+      "hours": 24,
+      "durationSec": 86400,
+      "cost": [
+        {
+          "id": 1041,
+          "count": 270
+        }
+      ],
+      "minimumBusinessSec": 43201
+    }
+  ],
+  "talents": [
+    {
+      "id": 9001,
+      "name": "金牌销售",
+      "type": 1,
+      "description": "金币收入+10%",
+      "effect": "金币收入+10%"
+    },
+    {
+      "id": 9002,
+      "name": "金牌宣传",
+      "type": 2,
+      "description": "热卖值+10%",
+      "effect": "热卖值+10%"
+    },
+    {
+      "id": 9003,
+      "name": "金牌服务",
+      "type": 3,
+      "description": "每售出100杯奶茶，有10%概率获得宣传喇叭x1",
+      "effect": "售出奶茶时有概率获得宣传喇叭"
+    },
+    {
+      "id": 9004,
+      "name": "默默搬砖",
+      "type": 4,
+      "description": "热卖值+5%",
+      "effect": "热卖值+5%"
+    }
+  ],
+  "levels": [
+    {
+      "level": 1,
+      "revenueRequired": 0,
+      "baseCupsPerHour": 40,
+      "employeeSlots": 1,
+      "advancedPricePercent": 0,
+      "recipeIds": [
+        1,
+        2,
+        9
+      ],
+      "unlockDescription": "",
+      "rewards": []
+    },
+    {
+      "level": 2,
+      "revenueRequired": 14000,
+      "baseCupsPerHour": 45,
+      "employeeSlots": 1,
+      "advancedPricePercent": 0,
+      "recipeIds": [
+        1,
+        2,
+        9
+      ],
+      "unlockDescription": "装饰部件",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 2
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "revenueRequired": 33000,
+      "baseCupsPerHour": 50,
+      "employeeSlots": 2,
+      "advancedPricePercent": 0,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        9
+      ],
+      "unlockDescription": "",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 2
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "revenueRequired": 53000,
+      "baseCupsPerHour": 55,
+      "employeeSlots": 2,
+      "advancedPricePercent": 500,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        9
+      ],
+      "unlockDescription": "门部件",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 2
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "revenueRequired": 75000,
+      "baseCupsPerHour": 60,
+      "employeeSlots": 2,
+      "advancedPricePercent": 1000,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        4,
+        9
+      ],
+      "unlockDescription": "",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 2
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "revenueRequired": 102000,
+      "baseCupsPerHour": 65,
+      "employeeSlots": 2,
+      "advancedPricePercent": 1500,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        4,
+        9
+      ],
+      "unlockDescription": "窗户部件",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 2
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "revenueRequired": 157000,
+      "baseCupsPerHour": 70,
+      "employeeSlots": 2,
+      "advancedPricePercent": 2000,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "unlockDescription": "",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 2
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "revenueRequired": 222000,
+      "baseCupsPerHour": 75,
+      "employeeSlots": 2,
+      "advancedPricePercent": 2000,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "unlockDescription": "墙壁部件",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 2
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "revenueRequired": 291000,
+      "baseCupsPerHour": 80,
+      "employeeSlots": 2,
+      "advancedPricePercent": 2500,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "unlockDescription": "",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 2
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "revenueRequired": 372000,
+      "baseCupsPerHour": 85,
+      "employeeSlots": 2,
+      "advancedPricePercent": 3000,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "unlockDescription": "地板部件",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 3
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "revenueRequired": 457000,
+      "baseCupsPerHour": 90,
+      "employeeSlots": 2,
+      "advancedPricePercent": 3000,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "unlockDescription": "",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 3
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "revenueRequired": 560000,
+      "baseCupsPerHour": 95,
+      "employeeSlots": 2,
+      "advancedPricePercent": 3500,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9
+      ],
+      "unlockDescription": "屋顶部件",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 5
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "revenueRequired": 694000,
+      "baseCupsPerHour": 100,
+      "employeeSlots": 2,
+      "advancedPricePercent": 4000,
+      "recipeIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "unlockDescription": "",
+      "rewards": [
+        {
+          "id": 29005,
+          "count": 5
+        },
+        {
+          "id": 1042,
+          "count": 2
+        },
+        {
+          "id": 80011,
+          "count": 10
+        }
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "name": "普通奶茶",
+      "fruitItemId": 0,
+      "fruitCount": 0,
+      "output": 0,
+      "imageRef": "gui/texture/icon/icon_s4_milktea_1/spriteFrame",
+      "price": [
+        {
+          "id": 1041,
+          "count": 3
+        }
+      ],
+      "description": "普通奶茶，不限量供应，每杯售价奶茶券x3。"
+    },
+    {
+      "id": 2,
+      "name": "甜莓奶茶",
+      "fruitItemId": 40525,
+      "fruitCount": 1,
+      "output": 1,
+      "imageRef": "gui/texture/icon/icon_s4_milktea_2/spriteFrame",
+      "price": [
+        {
+          "id": 1041,
+          "count": 10
+        }
+      ],
+      "description": "消耗森野甜莓制作，每颗可制作1杯；带有售价倍率的果实，产量按相同倍率提升。"
+    },
+    {
+      "id": 3,
+      "name": "白桃乌龙",
+      "fruitItemId": 40526,
+      "fruitCount": 1,
+      "output": 1,
+      "imageRef": "gui/texture/icon/icon_s4_milktea_3/spriteFrame",
+      "price": [
+        {
+          "id": 1041,
+          "count": 11
+        }
+      ],
+      "description": "消耗森野白桃制作，每颗可制作1杯；带有售价倍率的果实，产量按相同倍率提升。"
+    },
+    {
+      "id": 4,
+      "name": "摇摇甜橙",
+      "fruitItemId": 40527,
+      "fruitCount": 1,
+      "output": 1,
+      "imageRef": "gui/texture/icon/icon_s4_milktea_4/spriteFrame",
+      "price": [
+        {
+          "id": 1041,
+          "count": 12
+        }
+      ],
+      "description": "消耗森野甜橙制作，每颗可制作1杯；带有售价倍率的果实，产量按相同倍率提升。"
+    },
+    {
+      "id": 5,
+      "name": "馥香红柚",
+      "fruitItemId": 40528,
+      "fruitCount": 1,
+      "output": 1,
+      "imageRef": "gui/texture/icon/icon_s4_milktea_5/spriteFrame",
+      "price": [
+        {
+          "id": 1041,
+          "count": 13
+        }
+      ],
+      "description": "消耗森野红柚制作，每颗可制作1杯；带有售价倍率的果实，产量按相同倍率提升。"
+    },
+    {
+      "id": 6,
+      "name": "厚乳可可",
+      "fruitItemId": 40021,
+      "fruitCount": 1,
+      "output": 1,
+      "imageRef": "gui/texture/icon/icon_s4_milktea_6/spriteFrame",
+      "price": [
+        {
+          "id": 1041,
+          "count": 14
+        }
+      ],
+      "description": "消耗森野可可豆制作，每颗可制作1杯；带有售价倍率的果实，产量按相同倍率提升。"
+    },
+    {
+      "id": 7,
+      "name": "柿柿如意",
+      "fruitItemId": 41435,
+      "fruitCount": 1,
+      "output": 1,
+      "imageRef": "gui/texture/icon/icon_s4_milktea_7/spriteFrame",
+      "price": [
+        {
+          "id": 1041,
+          "count": 15
+        }
+      ],
+      "description": "消耗森野柿子制作，每颗可制作1杯；带有售价倍率的果实，产量按相同倍率提升。"
+    },
+    {
+      "id": 8,
+      "name": "芭乐冰奶",
+      "fruitItemId": 40529,
+      "fruitCount": 1,
+      "output": 1,
+      "imageRef": "gui/texture/icon/icon_s4_milktea_8/spriteFrame",
+      "price": [
+        {
+          "id": 1041,
+          "count": 16
+        }
+      ],
+      "description": "消耗森野芭乐制作，每颗可制作1杯；带有售价倍率的果实，产量按相同倍率提升。"
+    },
+    {
+      "id": 9,
+      "name": "金露云酪",
+      "fruitItemId": 49005,
+      "fruitCount": 1,
+      "output": 1,
+      "imageRef": "gui/texture/icon/icon_s4_milktea_9/spriteFrame",
+      "price": [
+        {
+          "id": 1041,
+          "count": 45
+        }
+      ],
+      "description": "消耗森野黄金芽制作，每颗可制作1杯；带有售价倍率的果实，产量按相同倍率提升。"
+    }
+  ]
+}

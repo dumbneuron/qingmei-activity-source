@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+captures/
+credentials/
+runtime/
+.DS_Store
+Thumbs.db
+*.pem
+*.key
+*.p12
+*.har
